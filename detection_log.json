@@ -1,0 +1,4351 @@
+[
+  {
+    "timestamp": "2026-01-22 17:00:22",
+    "class": "person",
+    "confidence": 0.8763
+  },
+  {
+    "timestamp": "2026-01-22 17:00:22",
+    "class": "person",
+    "confidence": 0.8281
+  },
+  {
+    "timestamp": "2026-01-22 17:00:22",
+    "class": "person",
+    "confidence": 0.7099
+  },
+  {
+    "timestamp": "2026-01-22 17:00:22",
+    "class": "person",
+    "confidence": 0.705
+  },
+  {
+    "timestamp": "2026-01-22 17:00:22",
+    "class": "person",
+    "confidence": 0.8469
+  },
+  {
+    "timestamp": "2026-01-22 17:00:22",
+    "class": "person",
+    "confidence": 0.7771
+  },
+  {
+    "timestamp": "2026-01-22 17:00:22",
+    "class": "person",
+    "confidence": 0.6855
+  },
+  {
+    "timestamp": "2026-01-22 17:00:22",
+    "class": "person",
+    "confidence": 0.8556
+  },
+  {
+    "timestamp": "2026-01-22 17:00:22",
+    "class": "person",
+    "confidence": 0.7607
+  },
+  {
+    "timestamp": "2026-01-22 17:00:22",
+    "class": "person",
+    "confidence": 0.7485
+  },
+  {
+    "timestamp": "2026-01-22 17:00:22",
+    "class": "person",
+    "confidence": 0.6633
+  },
+  {
+    "timestamp": "2026-01-22 17:00:22",
+    "class": "person",
+    "confidence": 0.8336
+  },
+  {
+    "timestamp": "2026-01-22 17:00:22",
+    "class": "person",
+    "confidence": 0.7371
+  },
+  {
+    "timestamp": "2026-01-22 17:00:22",
+    "class": "person",
+    "confidence": 0.7301
+  },
+  {
+    "timestamp": "2026-01-22 17:00:22",
+    "class": "person",
+    "confidence": 0.6926
+  },
+  {
+    "timestamp": "2026-01-22 17:00:22",
+    "class": "person",
+    "confidence": 0.5285
+  },
+  {
+    "timestamp": "2026-01-22 17:00:22",
+    "class": "person",
+    "confidence": 0.836
+  },
+  {
+    "timestamp": "2026-01-22 17:00:22",
+    "class": "person",
+    "confidence": 0.7935
+  },
+  {
+    "timestamp": "2026-01-22 17:00:22",
+    "class": "person",
+    "confidence": 0.5811
+  },
+  {
+    "timestamp": "2026-01-22 17:00:22",
+    "class": "person",
+    "confidence": 0.5604
+  },
+  {
+    "timestamp": "2026-01-22 17:00:22",
+    "class": "person",
+    "confidence": 0.8214
+  },
+  {
+    "timestamp": "2026-01-22 17:00:22",
+    "class": "person",
+    "confidence": 0.8162
+  },
+  {
+    "timestamp": "2026-01-22 17:00:22",
+    "class": "person",
+    "confidence": 0.7335
+  },
+  {
+    "timestamp": "2026-01-22 17:00:22",
+    "class": "person",
+    "confidence": 0.621
+  },
+  {
+    "timestamp": "2026-01-22 17:00:23",
+    "class": "person",
+    "confidence": 0.8472
+  },
+  {
+    "timestamp": "2026-01-22 17:00:23",
+    "class": "person",
+    "confidence": 0.7544
+  },
+  {
+    "timestamp": "2026-01-22 17:00:23",
+    "class": "person",
+    "confidence": 0.725
+  },
+  {
+    "timestamp": "2026-01-22 17:00:23",
+    "class": "person",
+    "confidence": 0.7155
+  },
+  {
+    "timestamp": "2026-01-22 17:00:23",
+    "class": "person",
+    "confidence": 0.5259
+  },
+  {
+    "timestamp": "2026-01-22 17:00:23",
+    "class": "person",
+    "confidence": 0.8505
+  },
+  {
+    "timestamp": "2026-01-22 17:00:23",
+    "class": "person",
+    "confidence": 0.8503
+  },
+  {
+    "timestamp": "2026-01-22 17:00:23",
+    "class": "person",
+    "confidence": 0.8232
+  },
+  {
+    "timestamp": "2026-01-22 17:00:23",
+    "class": "person",
+    "confidence": 0.612
+  },
+  {
+    "timestamp": "2026-01-22 17:00:23",
+    "class": "person",
+    "confidence": 0.8611
+  },
+  {
+    "timestamp": "2026-01-22 17:00:23",
+    "class": "person",
+    "confidence": 0.8592
+  },
+  {
+    "timestamp": "2026-01-22 17:00:23",
+    "class": "person",
+    "confidence": 0.8119
+  },
+  {
+    "timestamp": "2026-01-22 17:00:23",
+    "class": "person",
+    "confidence": 0.6511
+  },
+  {
+    "timestamp": "2026-01-22 17:00:23",
+    "class": "person",
+    "confidence": 0.5164
+  },
+  {
+    "timestamp": "2026-01-22 17:00:23",
+    "class": "person",
+    "confidence": 0.8621
+  },
+  {
+    "timestamp": "2026-01-22 17:00:23",
+    "class": "person",
+    "confidence": 0.8334
+  },
+  {
+    "timestamp": "2026-01-22 17:00:23",
+    "class": "person",
+    "confidence": 0.7738
+  },
+  {
+    "timestamp": "2026-01-22 17:00:23",
+    "class": "person",
+    "confidence": 0.7058
+  },
+  {
+    "timestamp": "2026-01-22 17:00:23",
+    "class": "person",
+    "confidence": 0.6244
+  },
+  {
+    "timestamp": "2026-01-22 17:00:23",
+    "class": "person",
+    "confidence": 0.8857
+  },
+  {
+    "timestamp": "2026-01-22 17:00:23",
+    "class": "person",
+    "confidence": 0.871
+  },
+  {
+    "timestamp": "2026-01-22 17:00:23",
+    "class": "person",
+    "confidence": 0.7478
+  },
+  {
+    "timestamp": "2026-01-22 17:00:23",
+    "class": "person",
+    "confidence": 0.6917
+  },
+  {
+    "timestamp": "2026-01-22 17:00:23",
+    "class": "person",
+    "confidence": 0.8748
+  },
+  {
+    "timestamp": "2026-01-22 17:00:23",
+    "class": "person",
+    "confidence": 0.8622
+  },
+  {
+    "timestamp": "2026-01-22 17:00:23",
+    "class": "person",
+    "confidence": 0.7863
+  },
+  {
+    "timestamp": "2026-01-22 17:00:23",
+    "class": "person",
+    "confidence": 0.7586
+  },
+  {
+    "timestamp": "2026-01-22 17:00:24",
+    "class": "person",
+    "confidence": 0.8664
+  },
+  {
+    "timestamp": "2026-01-22 17:00:24",
+    "class": "person",
+    "confidence": 0.8497
+  },
+  {
+    "timestamp": "2026-01-22 17:00:24",
+    "class": "person",
+    "confidence": 0.7582
+  },
+  {
+    "timestamp": "2026-01-22 17:00:24",
+    "class": "person",
+    "confidence": 0.7308
+  },
+  {
+    "timestamp": "2026-01-22 17:00:24",
+    "class": "person",
+    "confidence": 0.891
+  },
+  {
+    "timestamp": "2026-01-22 17:00:24",
+    "class": "person",
+    "confidence": 0.8729
+  },
+  {
+    "timestamp": "2026-01-22 17:00:24",
+    "class": "person",
+    "confidence": 0.7645
+  },
+  {
+    "timestamp": "2026-01-22 17:00:24",
+    "class": "person",
+    "confidence": 0.7529
+  },
+  {
+    "timestamp": "2026-01-22 17:00:24",
+    "class": "person",
+    "confidence": 0.5287
+  },
+  {
+    "timestamp": "2026-01-22 17:00:24",
+    "class": "person",
+    "confidence": 0.8888
+  },
+  {
+    "timestamp": "2026-01-22 17:00:24",
+    "class": "person",
+    "confidence": 0.8732
+  },
+  {
+    "timestamp": "2026-01-22 17:00:24",
+    "class": "person",
+    "confidence": 0.7122
+  },
+  {
+    "timestamp": "2026-01-22 17:00:24",
+    "class": "person",
+    "confidence": 0.8944
+  },
+  {
+    "timestamp": "2026-01-22 17:00:24",
+    "class": "person",
+    "confidence": 0.8722
+  },
+  {
+    "timestamp": "2026-01-22 17:00:24",
+    "class": "person",
+    "confidence": 0.7056
+  },
+  {
+    "timestamp": "2026-01-22 17:00:24",
+    "class": "person",
+    "confidence": 0.7014
+  },
+  {
+    "timestamp": "2026-01-22 17:00:24",
+    "class": "person",
+    "confidence": 0.6329
+  },
+  {
+    "timestamp": "2026-01-22 17:00:24",
+    "class": "person",
+    "confidence": 0.866
+  },
+  {
+    "timestamp": "2026-01-22 17:00:24",
+    "class": "person",
+    "confidence": 0.8606
+  },
+  {
+    "timestamp": "2026-01-22 17:00:24",
+    "class": "person",
+    "confidence": 0.7659
+  },
+  {
+    "timestamp": "2026-01-22 17:00:24",
+    "class": "person",
+    "confidence": 0.7062
+  },
+  {
+    "timestamp": "2026-01-22 17:00:24",
+    "class": "person",
+    "confidence": 0.875
+  },
+  {
+    "timestamp": "2026-01-22 17:00:24",
+    "class": "person",
+    "confidence": 0.8706
+  },
+  {
+    "timestamp": "2026-01-22 17:00:24",
+    "class": "person",
+    "confidence": 0.7456
+  },
+  {
+    "timestamp": "2026-01-22 17:00:24",
+    "class": "person",
+    "confidence": 0.7179
+  },
+  {
+    "timestamp": "2026-01-22 17:00:24",
+    "class": "person",
+    "confidence": 0.8784
+  },
+  {
+    "timestamp": "2026-01-22 17:00:24",
+    "class": "person",
+    "confidence": 0.8727
+  },
+  {
+    "timestamp": "2026-01-22 17:00:24",
+    "class": "person",
+    "confidence": 0.7859
+  },
+  {
+    "timestamp": "2026-01-22 17:00:24",
+    "class": "person",
+    "confidence": 0.7104
+  },
+  {
+    "timestamp": "2026-01-22 17:00:25",
+    "class": "person",
+    "confidence": 0.888
+  },
+  {
+    "timestamp": "2026-01-22 17:00:25",
+    "class": "person",
+    "confidence": 0.8707
+  },
+  {
+    "timestamp": "2026-01-22 17:00:25",
+    "class": "person",
+    "confidence": 0.7953
+  },
+  {
+    "timestamp": "2026-01-22 17:00:25",
+    "class": "person",
+    "confidence": 0.733
+  },
+  {
+    "timestamp": "2026-01-22 17:00:25",
+    "class": "person",
+    "confidence": 0.8658
+  },
+  {
+    "timestamp": "2026-01-22 17:00:25",
+    "class": "person",
+    "confidence": 0.8651
+  },
+  {
+    "timestamp": "2026-01-22 17:00:25",
+    "class": "person",
+    "confidence": 0.7735
+  },
+  {
+    "timestamp": "2026-01-22 17:00:25",
+    "class": "person",
+    "confidence": 0.6945
+  },
+  {
+    "timestamp": "2026-01-22 17:00:25",
+    "class": "person",
+    "confidence": 0.9035
+  },
+  {
+    "timestamp": "2026-01-22 17:00:25",
+    "class": "person",
+    "confidence": 0.8768
+  },
+  {
+    "timestamp": "2026-01-22 17:00:25",
+    "class": "person",
+    "confidence": 0.8219
+  },
+  {
+    "timestamp": "2026-01-22 17:00:25",
+    "class": "person",
+    "confidence": 0.6397
+  },
+  {
+    "timestamp": "2026-01-22 17:00:25",
+    "class": "person",
+    "confidence": 0.9094
+  },
+  {
+    "timestamp": "2026-01-22 17:00:25",
+    "class": "person",
+    "confidence": 0.882
+  },
+  {
+    "timestamp": "2026-01-22 17:00:25",
+    "class": "person",
+    "confidence": 0.8072
+  },
+  {
+    "timestamp": "2026-01-22 17:00:25",
+    "class": "person",
+    "confidence": 0.8981
+  },
+  {
+    "timestamp": "2026-01-22 17:00:25",
+    "class": "person",
+    "confidence": 0.8792
+  },
+  {
+    "timestamp": "2026-01-22 17:00:25",
+    "class": "person",
+    "confidence": 0.859
+  },
+  {
+    "timestamp": "2026-01-22 17:00:25",
+    "class": "person",
+    "confidence": 0.7138
+  },
+  {
+    "timestamp": "2026-01-22 17:00:25",
+    "class": "person",
+    "confidence": 0.8729
+  },
+  {
+    "timestamp": "2026-01-22 17:00:25",
+    "class": "person",
+    "confidence": 0.8691
+  },
+  {
+    "timestamp": "2026-01-22 17:00:25",
+    "class": "person",
+    "confidence": 0.8347
+  },
+  {
+    "timestamp": "2026-01-22 17:00:25",
+    "class": "person",
+    "confidence": 0.7437
+  },
+  {
+    "timestamp": "2026-01-22 17:00:25",
+    "class": "person",
+    "confidence": 0.8755
+  },
+  {
+    "timestamp": "2026-01-22 17:00:25",
+    "class": "person",
+    "confidence": 0.8692
+  },
+  {
+    "timestamp": "2026-01-22 17:00:25",
+    "class": "person",
+    "confidence": 0.8452
+  },
+  {
+    "timestamp": "2026-01-22 17:00:26",
+    "class": "person",
+    "confidence": 0.7188
+  },
+  {
+    "timestamp": "2026-01-22 17:00:26",
+    "class": "person",
+    "confidence": 0.8737
+  },
+  {
+    "timestamp": "2026-01-22 17:00:26",
+    "class": "person",
+    "confidence": 0.8493
+  },
+  {
+    "timestamp": "2026-01-22 17:00:26",
+    "class": "person",
+    "confidence": 0.8445
+  },
+  {
+    "timestamp": "2026-01-22 17:00:26",
+    "class": "person",
+    "confidence": 0.7306
+  },
+  {
+    "timestamp": "2026-01-22 17:00:26",
+    "class": "person",
+    "confidence": 0.8808
+  },
+  {
+    "timestamp": "2026-01-22 17:00:26",
+    "class": "person",
+    "confidence": 0.8725
+  },
+  {
+    "timestamp": "2026-01-22 17:00:26",
+    "class": "person",
+    "confidence": 0.8609
+  },
+  {
+    "timestamp": "2026-01-22 17:00:26",
+    "class": "person",
+    "confidence": 0.6833
+  },
+  {
+    "timestamp": "2026-01-22 17:00:26",
+    "class": "person",
+    "confidence": 0.8884
+  },
+  {
+    "timestamp": "2026-01-22 17:00:26",
+    "class": "person",
+    "confidence": 0.8626
+  },
+  {
+    "timestamp": "2026-01-22 17:00:26",
+    "class": "person",
+    "confidence": 0.839
+  },
+  {
+    "timestamp": "2026-01-22 17:00:26",
+    "class": "person",
+    "confidence": 0.7447
+  },
+  {
+    "timestamp": "2026-01-22 17:00:26",
+    "class": "person",
+    "confidence": 0.8961
+  },
+  {
+    "timestamp": "2026-01-22 17:00:26",
+    "class": "person",
+    "confidence": 0.8668
+  },
+  {
+    "timestamp": "2026-01-22 17:00:26",
+    "class": "person",
+    "confidence": 0.8155
+  },
+  {
+    "timestamp": "2026-01-22 17:00:26",
+    "class": "person",
+    "confidence": 0.782
+  },
+  {
+    "timestamp": "2026-01-22 17:00:26",
+    "class": "person",
+    "confidence": 0.8823
+  },
+  {
+    "timestamp": "2026-01-22 17:00:26",
+    "class": "person",
+    "confidence": 0.8544
+  },
+  {
+    "timestamp": "2026-01-22 17:00:26",
+    "class": "person",
+    "confidence": 0.7752
+  },
+  {
+    "timestamp": "2026-01-22 17:00:26",
+    "class": "person",
+    "confidence": 0.7739
+  },
+  {
+    "timestamp": "2026-01-22 17:00:26",
+    "class": "person",
+    "confidence": 0.8814
+  },
+  {
+    "timestamp": "2026-01-22 17:00:26",
+    "class": "person",
+    "confidence": 0.8579
+  },
+  {
+    "timestamp": "2026-01-22 17:00:26",
+    "class": "person",
+    "confidence": 0.73
+  },
+  {
+    "timestamp": "2026-01-22 17:00:26",
+    "class": "person",
+    "confidence": 0.6179
+  },
+  {
+    "timestamp": "2026-01-22 17:00:26",
+    "class": "person",
+    "confidence": 0.8895
+  },
+  {
+    "timestamp": "2026-01-22 17:00:26",
+    "class": "person",
+    "confidence": 0.8514
+  },
+  {
+    "timestamp": "2026-01-22 17:00:26",
+    "class": "person",
+    "confidence": 0.7878
+  },
+  {
+    "timestamp": "2026-01-22 17:00:26",
+    "class": "person",
+    "confidence": 0.7699
+  },
+  {
+    "timestamp": "2026-01-22 17:00:27",
+    "class": "person",
+    "confidence": 0.8753
+  },
+  {
+    "timestamp": "2026-01-22 17:00:27",
+    "class": "person",
+    "confidence": 0.8657
+  },
+  {
+    "timestamp": "2026-01-22 17:00:27",
+    "class": "person",
+    "confidence": 0.7825
+  },
+  {
+    "timestamp": "2026-01-22 17:00:27",
+    "class": "person",
+    "confidence": 0.7636
+  },
+  {
+    "timestamp": "2026-01-22 17:00:27",
+    "class": "person",
+    "confidence": 0.8805
+  },
+  {
+    "timestamp": "2026-01-22 17:00:27",
+    "class": "person",
+    "confidence": 0.8594
+  },
+  {
+    "timestamp": "2026-01-22 17:00:27",
+    "class": "person",
+    "confidence": 0.7551
+  },
+  {
+    "timestamp": "2026-01-22 17:00:27",
+    "class": "person",
+    "confidence": 0.5584
+  },
+  {
+    "timestamp": "2026-01-22 17:00:27",
+    "class": "person",
+    "confidence": 0.8612
+  },
+  {
+    "timestamp": "2026-01-22 17:00:27",
+    "class": "person",
+    "confidence": 0.8562
+  },
+  {
+    "timestamp": "2026-01-22 17:00:27",
+    "class": "person",
+    "confidence": 0.7551
+  },
+  {
+    "timestamp": "2026-01-22 17:00:27",
+    "class": "person",
+    "confidence": 0.6513
+  },
+  {
+    "timestamp": "2026-01-22 17:00:27",
+    "class": "person",
+    "confidence": 0.8641
+  },
+  {
+    "timestamp": "2026-01-22 17:00:27",
+    "class": "person",
+    "confidence": 0.8616
+  },
+  {
+    "timestamp": "2026-01-22 17:00:27",
+    "class": "person",
+    "confidence": 0.7274
+  },
+  {
+    "timestamp": "2026-01-22 17:00:27",
+    "class": "person",
+    "confidence": 0.6463
+  },
+  {
+    "timestamp": "2026-01-22 17:00:27",
+    "class": "person",
+    "confidence": 0.5059
+  },
+  {
+    "timestamp": "2026-01-22 17:00:27",
+    "class": "person",
+    "confidence": 0.8941
+  },
+  {
+    "timestamp": "2026-01-22 17:00:27",
+    "class": "person",
+    "confidence": 0.8652
+  },
+  {
+    "timestamp": "2026-01-22 17:00:27",
+    "class": "person",
+    "confidence": 0.7402
+  },
+  {
+    "timestamp": "2026-01-22 17:00:27",
+    "class": "person",
+    "confidence": 0.6586
+  },
+  {
+    "timestamp": "2026-01-22 17:00:27",
+    "class": "person",
+    "confidence": 0.8706
+  },
+  {
+    "timestamp": "2026-01-22 17:00:27",
+    "class": "person",
+    "confidence": 0.8704
+  },
+  {
+    "timestamp": "2026-01-22 17:00:27",
+    "class": "person",
+    "confidence": 0.7129
+  },
+  {
+    "timestamp": "2026-01-22 17:00:27",
+    "class": "person",
+    "confidence": 0.641
+  },
+  {
+    "timestamp": "2026-01-22 17:00:27",
+    "class": "person",
+    "confidence": 0.8859
+  },
+  {
+    "timestamp": "2026-01-22 17:00:27",
+    "class": "person",
+    "confidence": 0.8715
+  },
+  {
+    "timestamp": "2026-01-22 17:00:27",
+    "class": "person",
+    "confidence": 0.7111
+  },
+  {
+    "timestamp": "2026-01-22 17:00:27",
+    "class": "person",
+    "confidence": 0.7011
+  },
+  {
+    "timestamp": "2026-01-22 17:00:28",
+    "class": "person",
+    "confidence": 0.881
+  },
+  {
+    "timestamp": "2026-01-22 17:00:28",
+    "class": "person",
+    "confidence": 0.8699
+  },
+  {
+    "timestamp": "2026-01-22 17:00:28",
+    "class": "person",
+    "confidence": 0.7093
+  },
+  {
+    "timestamp": "2026-01-22 17:00:28",
+    "class": "person",
+    "confidence": 0.6321
+  },
+  {
+    "timestamp": "2026-01-22 17:00:28",
+    "class": "person",
+    "confidence": 0.8825
+  },
+  {
+    "timestamp": "2026-01-22 17:00:28",
+    "class": "person",
+    "confidence": 0.8488
+  },
+  {
+    "timestamp": "2026-01-22 17:00:28",
+    "class": "person",
+    "confidence": 0.6875
+  },
+  {
+    "timestamp": "2026-01-22 17:00:28",
+    "class": "person",
+    "confidence": 0.644
+  },
+  {
+    "timestamp": "2026-01-22 17:00:28",
+    "class": "person",
+    "confidence": 0.8449
+  },
+  {
+    "timestamp": "2026-01-22 17:00:28",
+    "class": "person",
+    "confidence": 0.8413
+  },
+  {
+    "timestamp": "2026-01-22 17:00:28",
+    "class": "person",
+    "confidence": 0.7386
+  },
+  {
+    "timestamp": "2026-01-22 17:00:28",
+    "class": "person",
+    "confidence": 0.6946
+  },
+  {
+    "timestamp": "2026-01-22 17:00:28",
+    "class": "person",
+    "confidence": 0.8621
+  },
+  {
+    "timestamp": "2026-01-22 17:00:28",
+    "class": "person",
+    "confidence": 0.8501
+  },
+  {
+    "timestamp": "2026-01-22 17:00:28",
+    "class": "person",
+    "confidence": 0.73
+  },
+  {
+    "timestamp": "2026-01-22 17:00:28",
+    "class": "person",
+    "confidence": 0.6173
+  },
+  {
+    "timestamp": "2026-01-22 17:00:28",
+    "class": "person",
+    "confidence": 0.8775
+  },
+  {
+    "timestamp": "2026-01-22 17:00:28",
+    "class": "person",
+    "confidence": 0.8564
+  },
+  {
+    "timestamp": "2026-01-22 17:00:28",
+    "class": "person",
+    "confidence": 0.7545
+  },
+  {
+    "timestamp": "2026-01-22 17:00:28",
+    "class": "person",
+    "confidence": 0.7052
+  },
+  {
+    "timestamp": "2026-01-22 17:00:28",
+    "class": "person",
+    "confidence": 0.8615
+  },
+  {
+    "timestamp": "2026-01-22 17:00:28",
+    "class": "person",
+    "confidence": 0.8359
+  },
+  {
+    "timestamp": "2026-01-22 17:00:28",
+    "class": "person",
+    "confidence": 0.6305
+  },
+  {
+    "timestamp": "2026-01-22 17:00:28",
+    "class": "person",
+    "confidence": 0.524
+  },
+  {
+    "timestamp": "2026-01-22 17:00:28",
+    "class": "person",
+    "confidence": 0.8791
+  },
+  {
+    "timestamp": "2026-01-22 17:00:28",
+    "class": "person",
+    "confidence": 0.8657
+  },
+  {
+    "timestamp": "2026-01-22 17:00:28",
+    "class": "person",
+    "confidence": 0.7031
+  },
+  {
+    "timestamp": "2026-01-22 17:00:28",
+    "class": "person",
+    "confidence": 0.5764
+  },
+  {
+    "timestamp": "2026-01-22 17:00:29",
+    "class": "person",
+    "confidence": 0.8853
+  },
+  {
+    "timestamp": "2026-01-22 17:00:29",
+    "class": "person",
+    "confidence": 0.8674
+  },
+  {
+    "timestamp": "2026-01-22 17:00:29",
+    "class": "person",
+    "confidence": 0.6854
+  },
+  {
+    "timestamp": "2026-01-22 17:00:29",
+    "class": "person",
+    "confidence": 0.5802
+  },
+  {
+    "timestamp": "2026-01-22 17:00:29",
+    "class": "person",
+    "confidence": 0.8961
+  },
+  {
+    "timestamp": "2026-01-22 17:00:29",
+    "class": "person",
+    "confidence": 0.8616
+  },
+  {
+    "timestamp": "2026-01-22 17:00:29",
+    "class": "person",
+    "confidence": 0.7161
+  },
+  {
+    "timestamp": "2026-01-22 17:00:29",
+    "class": "person",
+    "confidence": 0.6252
+  },
+  {
+    "timestamp": "2026-01-22 17:00:29",
+    "class": "person",
+    "confidence": 0.5864
+  },
+  {
+    "timestamp": "2026-01-22 17:00:29",
+    "class": "person",
+    "confidence": 0.8566
+  },
+  {
+    "timestamp": "2026-01-22 17:00:29",
+    "class": "person",
+    "confidence": 0.8526
+  },
+  {
+    "timestamp": "2026-01-22 17:00:29",
+    "class": "person",
+    "confidence": 0.6186
+  },
+  {
+    "timestamp": "2026-01-22 17:00:29",
+    "class": "person",
+    "confidence": 0.5962
+  },
+  {
+    "timestamp": "2026-01-22 17:00:29",
+    "class": "person",
+    "confidence": 0.8725
+  },
+  {
+    "timestamp": "2026-01-22 17:00:29",
+    "class": "person",
+    "confidence": 0.7948
+  },
+  {
+    "timestamp": "2026-01-22 17:00:29",
+    "class": "person",
+    "confidence": 0.786
+  },
+  {
+    "timestamp": "2026-01-22 17:00:29",
+    "class": "person",
+    "confidence": 0.723
+  },
+  {
+    "timestamp": "2026-01-22 17:00:29",
+    "class": "person",
+    "confidence": 0.6634
+  },
+  {
+    "timestamp": "2026-01-22 17:00:29",
+    "class": "person",
+    "confidence": 0.8885
+  },
+  {
+    "timestamp": "2026-01-22 17:00:29",
+    "class": "person",
+    "confidence": 0.8567
+  },
+  {
+    "timestamp": "2026-01-22 17:00:29",
+    "class": "person",
+    "confidence": 0.7582
+  },
+  {
+    "timestamp": "2026-01-22 17:00:29",
+    "class": "person",
+    "confidence": 0.6085
+  },
+  {
+    "timestamp": "2026-01-22 17:00:29",
+    "class": "person",
+    "confidence": 0.8644
+  },
+  {
+    "timestamp": "2026-01-22 17:00:29",
+    "class": "person",
+    "confidence": 0.8498
+  },
+  {
+    "timestamp": "2026-01-22 17:00:29",
+    "class": "person",
+    "confidence": 0.8002
+  },
+  {
+    "timestamp": "2026-01-22 17:00:29",
+    "class": "person",
+    "confidence": 0.6328
+  },
+  {
+    "timestamp": "2026-01-22 17:00:29",
+    "class": "person",
+    "confidence": 0.5942
+  },
+  {
+    "timestamp": "2026-01-22 17:00:29",
+    "class": "person",
+    "confidence": 0.8679
+  },
+  {
+    "timestamp": "2026-01-22 17:00:29",
+    "class": "person",
+    "confidence": 0.8647
+  },
+  {
+    "timestamp": "2026-01-22 17:00:29",
+    "class": "person",
+    "confidence": 0.8286
+  },
+  {
+    "timestamp": "2026-01-22 17:00:29",
+    "class": "person",
+    "confidence": 0.7145
+  },
+  {
+    "timestamp": "2026-01-22 17:00:29",
+    "class": "person",
+    "confidence": 0.5988
+  },
+  {
+    "timestamp": "2026-01-22 17:00:30",
+    "class": "person",
+    "confidence": 0.8882
+  },
+  {
+    "timestamp": "2026-01-22 17:00:30",
+    "class": "person",
+    "confidence": 0.8674
+  },
+  {
+    "timestamp": "2026-01-22 17:00:30",
+    "class": "person",
+    "confidence": 0.8166
+  },
+  {
+    "timestamp": "2026-01-22 17:00:30",
+    "class": "person",
+    "confidence": 0.574
+  },
+  {
+    "timestamp": "2026-01-22 17:00:30",
+    "class": "person",
+    "confidence": 0.859
+  },
+  {
+    "timestamp": "2026-01-22 17:00:30",
+    "class": "person",
+    "confidence": 0.8485
+  },
+  {
+    "timestamp": "2026-01-22 17:00:30",
+    "class": "person",
+    "confidence": 0.7949
+  },
+  {
+    "timestamp": "2026-01-22 17:00:30",
+    "class": "person",
+    "confidence": 0.5186
+  },
+  {
+    "timestamp": "2026-01-22 17:00:30",
+    "class": "person",
+    "confidence": 0.8697
+  },
+  {
+    "timestamp": "2026-01-22 17:00:30",
+    "class": "person",
+    "confidence": 0.8645
+  },
+  {
+    "timestamp": "2026-01-22 17:00:30",
+    "class": "person",
+    "confidence": 0.7609
+  },
+  {
+    "timestamp": "2026-01-22 17:00:30",
+    "class": "laptop",
+    "confidence": 0.5767
+  },
+  {
+    "timestamp": "2026-01-22 17:00:30",
+    "class": "person",
+    "confidence": 0.8683
+  },
+  {
+    "timestamp": "2026-01-22 17:00:30",
+    "class": "person",
+    "confidence": 0.844
+  },
+  {
+    "timestamp": "2026-01-22 17:00:30",
+    "class": "person",
+    "confidence": 0.7903
+  },
+  {
+    "timestamp": "2026-01-22 17:00:30",
+    "class": "person",
+    "confidence": 0.6382
+  },
+  {
+    "timestamp": "2026-01-22 17:00:30",
+    "class": "person",
+    "confidence": 0.8563
+  },
+  {
+    "timestamp": "2026-01-22 17:00:30",
+    "class": "person",
+    "confidence": 0.8501
+  },
+  {
+    "timestamp": "2026-01-22 17:00:30",
+    "class": "person",
+    "confidence": 0.7933
+  },
+  {
+    "timestamp": "2026-01-22 17:00:30",
+    "class": "person",
+    "confidence": 0.5468
+  },
+  {
+    "timestamp": "2026-01-22 17:00:30",
+    "class": "person",
+    "confidence": 0.8618
+  },
+  {
+    "timestamp": "2026-01-22 17:00:30",
+    "class": "person",
+    "confidence": 0.8564
+  },
+  {
+    "timestamp": "2026-01-22 17:00:30",
+    "class": "person",
+    "confidence": 0.8074
+  },
+  {
+    "timestamp": "2026-01-22 17:00:30",
+    "class": "person",
+    "confidence": 0.6712
+  },
+  {
+    "timestamp": "2026-01-22 17:00:30",
+    "class": "person",
+    "confidence": 0.8766
+  },
+  {
+    "timestamp": "2026-01-22 17:00:30",
+    "class": "person",
+    "confidence": 0.8749
+  },
+  {
+    "timestamp": "2026-01-22 17:00:31",
+    "class": "person",
+    "confidence": 0.751
+  },
+  {
+    "timestamp": "2026-01-22 17:00:31",
+    "class": "person",
+    "confidence": 0.599
+  },
+  {
+    "timestamp": "2026-01-22 17:00:31",
+    "class": "person",
+    "confidence": 0.8879
+  },
+  {
+    "timestamp": "2026-01-22 17:00:31",
+    "class": "person",
+    "confidence": 0.878
+  },
+  {
+    "timestamp": "2026-01-22 17:00:31",
+    "class": "person",
+    "confidence": 0.6428
+  },
+  {
+    "timestamp": "2026-01-22 17:00:31",
+    "class": "person",
+    "confidence": 0.8801
+  },
+  {
+    "timestamp": "2026-01-22 17:00:31",
+    "class": "person",
+    "confidence": 0.8338
+  },
+  {
+    "timestamp": "2026-01-22 17:00:31",
+    "class": "person",
+    "confidence": 0.6198
+  },
+  {
+    "timestamp": "2026-01-22 17:00:31",
+    "class": "person",
+    "confidence": 0.8751
+  },
+  {
+    "timestamp": "2026-01-22 17:00:31",
+    "class": "person",
+    "confidence": 0.8725
+  },
+  {
+    "timestamp": "2026-01-22 17:00:31",
+    "class": "person",
+    "confidence": 0.651
+  },
+  {
+    "timestamp": "2026-01-22 17:00:31",
+    "class": "person",
+    "confidence": 0.8859
+  },
+  {
+    "timestamp": "2026-01-22 17:00:31",
+    "class": "person",
+    "confidence": 0.8621
+  },
+  {
+    "timestamp": "2026-01-22 17:00:31",
+    "class": "person",
+    "confidence": 0.7308
+  },
+  {
+    "timestamp": "2026-01-22 17:00:31",
+    "class": "person",
+    "confidence": 0.6054
+  },
+  {
+    "timestamp": "2026-01-22 17:00:31",
+    "class": "person",
+    "confidence": 0.8781
+  },
+  {
+    "timestamp": "2026-01-22 17:00:31",
+    "class": "person",
+    "confidence": 0.8754
+  },
+  {
+    "timestamp": "2026-01-22 17:00:31",
+    "class": "person",
+    "confidence": 0.6789
+  },
+  {
+    "timestamp": "2026-01-22 17:00:31",
+    "class": "person",
+    "confidence": 0.5997
+  },
+  {
+    "timestamp": "2026-01-22 17:00:31",
+    "class": "person",
+    "confidence": 0.8737
+  },
+  {
+    "timestamp": "2026-01-22 17:00:31",
+    "class": "person",
+    "confidence": 0.8612
+  },
+  {
+    "timestamp": "2026-01-22 17:00:31",
+    "class": "person",
+    "confidence": 0.7859
+  },
+  {
+    "timestamp": "2026-01-22 17:00:31",
+    "class": "person",
+    "confidence": 0.6817
+  },
+  {
+    "timestamp": "2026-01-22 17:00:31",
+    "class": "person",
+    "confidence": 0.8874
+  },
+  {
+    "timestamp": "2026-01-22 17:00:31",
+    "class": "person",
+    "confidence": 0.8722
+  },
+  {
+    "timestamp": "2026-01-22 17:00:31",
+    "class": "person",
+    "confidence": 0.6827
+  },
+  {
+    "timestamp": "2026-01-22 17:00:32",
+    "class": "person",
+    "confidence": 0.8783
+  },
+  {
+    "timestamp": "2026-01-22 17:00:32",
+    "class": "person",
+    "confidence": 0.8729
+  },
+  {
+    "timestamp": "2026-01-22 17:00:32",
+    "class": "person",
+    "confidence": 0.8229
+  },
+  {
+    "timestamp": "2026-01-22 17:00:32",
+    "class": "person",
+    "confidence": 0.5179
+  },
+  {
+    "timestamp": "2026-01-22 17:00:32",
+    "class": "person",
+    "confidence": 0.8806
+  },
+  {
+    "timestamp": "2026-01-22 17:00:32",
+    "class": "person",
+    "confidence": 0.872
+  },
+  {
+    "timestamp": "2026-01-22 17:00:32",
+    "class": "person",
+    "confidence": 0.7672
+  },
+  {
+    "timestamp": "2026-01-22 17:00:32",
+    "class": "person",
+    "confidence": 0.8887
+  },
+  {
+    "timestamp": "2026-01-22 17:00:32",
+    "class": "person",
+    "confidence": 0.8748
+  },
+  {
+    "timestamp": "2026-01-22 17:00:32",
+    "class": "person",
+    "confidence": 0.7762
+  },
+  {
+    "timestamp": "2026-01-22 17:00:32",
+    "class": "person",
+    "confidence": 0.8794
+  },
+  {
+    "timestamp": "2026-01-22 17:00:32",
+    "class": "person",
+    "confidence": 0.8763
+  },
+  {
+    "timestamp": "2026-01-22 17:00:32",
+    "class": "person",
+    "confidence": 0.7556
+  },
+  {
+    "timestamp": "2026-01-22 17:00:32",
+    "class": "person",
+    "confidence": 0.5011
+  },
+  {
+    "timestamp": "2026-01-22 17:43:43",
+    "class": "person",
+    "confidence": 0.9092
+  },
+  {
+    "timestamp": "2026-01-22 17:43:43",
+    "class": "laptop",
+    "confidence": 0.6265
+  },
+  {
+    "timestamp": "2026-01-22 17:43:43",
+    "class": "person",
+    "confidence": 0.6264
+  },
+  {
+    "timestamp": "2026-01-22 17:43:43",
+    "class": "person",
+    "confidence": 0.9061
+  },
+  {
+    "timestamp": "2026-01-22 17:43:43",
+    "class": "laptop",
+    "confidence": 0.5968
+  },
+  {
+    "timestamp": "2026-01-22 17:43:44",
+    "class": "person",
+    "confidence": 0.911
+  },
+  {
+    "timestamp": "2026-01-22 17:43:44",
+    "class": "laptop",
+    "confidence": 0.6649
+  },
+  {
+    "timestamp": "2026-01-22 17:43:44",
+    "class": "person",
+    "confidence": 0.5371
+  },
+  {
+    "timestamp": "2026-01-22 17:43:44",
+    "class": "person",
+    "confidence": 0.9274
+  },
+  {
+    "timestamp": "2026-01-22 17:43:44",
+    "class": "person",
+    "confidence": 0.6091
+  },
+  {
+    "timestamp": "2026-01-22 17:43:44",
+    "class": "laptop",
+    "confidence": 0.5929
+  },
+  {
+    "timestamp": "2026-01-22 17:43:44",
+    "class": "person",
+    "confidence": 0.8175
+  },
+  {
+    "timestamp": "2026-01-22 17:43:44",
+    "class": "laptop",
+    "confidence": 0.6882
+  },
+  {
+    "timestamp": "2026-01-22 17:43:44",
+    "class": "cell phone",
+    "confidence": 0.5787
+  },
+  {
+    "timestamp": "2026-01-22 17:43:44",
+    "class": "laptop",
+    "confidence": 0.8514
+  },
+  {
+    "timestamp": "2026-01-22 17:43:44",
+    "class": "person",
+    "confidence": 0.8254
+  },
+  {
+    "timestamp": "2026-01-22 17:43:44",
+    "class": "cell phone",
+    "confidence": 0.5078
+  },
+  {
+    "timestamp": "2026-01-22 17:43:44",
+    "class": "person",
+    "confidence": 0.9025
+  },
+  {
+    "timestamp": "2026-01-22 17:43:44",
+    "class": "laptop",
+    "confidence": 0.639
+  },
+  {
+    "timestamp": "2026-01-22 17:43:44",
+    "class": "person",
+    "confidence": 0.5883
+  },
+  {
+    "timestamp": "2026-01-22 17:43:44",
+    "class": "person",
+    "confidence": 0.9088
+  },
+  {
+    "timestamp": "2026-01-22 17:43:44",
+    "class": "person",
+    "confidence": 0.6467
+  },
+  {
+    "timestamp": "2026-01-22 17:43:44",
+    "class": "laptop",
+    "confidence": 0.6288
+  },
+  {
+    "timestamp": "2026-01-22 17:43:44",
+    "class": "person",
+    "confidence": 0.8925
+  },
+  {
+    "timestamp": "2026-01-22 17:43:44",
+    "class": "laptop",
+    "confidence": 0.6827
+  },
+  {
+    "timestamp": "2026-01-22 17:43:44",
+    "class": "person",
+    "confidence": 0.5943
+  },
+  {
+    "timestamp": "2026-01-22 17:43:45",
+    "class": "person",
+    "confidence": 0.8967
+  },
+  {
+    "timestamp": "2026-01-22 17:43:45",
+    "class": "laptop",
+    "confidence": 0.7305
+  },
+  {
+    "timestamp": "2026-01-22 17:43:45",
+    "class": "person",
+    "confidence": 0.8903
+  },
+  {
+    "timestamp": "2026-01-22 17:43:45",
+    "class": "laptop",
+    "confidence": 0.7273
+  },
+  {
+    "timestamp": "2026-01-22 17:43:45",
+    "class": "person",
+    "confidence": 0.893
+  },
+  {
+    "timestamp": "2026-01-22 17:43:45",
+    "class": "laptop",
+    "confidence": 0.6608
+  },
+  {
+    "timestamp": "2026-01-22 17:43:45",
+    "class": "person",
+    "confidence": 0.9003
+  },
+  {
+    "timestamp": "2026-01-22 17:43:45",
+    "class": "laptop",
+    "confidence": 0.6339
+  },
+  {
+    "timestamp": "2026-01-22 17:43:45",
+    "class": "person",
+    "confidence": 0.5548
+  },
+  {
+    "timestamp": "2026-01-22 17:43:45",
+    "class": "person",
+    "confidence": 0.9118
+  },
+  {
+    "timestamp": "2026-01-22 17:43:45",
+    "class": "laptop",
+    "confidence": 0.7042
+  },
+  {
+    "timestamp": "2026-01-22 17:43:45",
+    "class": "person",
+    "confidence": 0.9018
+  },
+  {
+    "timestamp": "2026-01-22 17:43:45",
+    "class": "laptop",
+    "confidence": 0.7071
+  },
+  {
+    "timestamp": "2026-01-22 17:43:45",
+    "class": "person",
+    "confidence": 0.9017
+  },
+  {
+    "timestamp": "2026-01-22 17:43:45",
+    "class": "laptop",
+    "confidence": 0.7055
+  },
+  {
+    "timestamp": "2026-01-22 17:43:45",
+    "class": "person",
+    "confidence": 0.9033
+  },
+  {
+    "timestamp": "2026-01-22 17:43:45",
+    "class": "laptop",
+    "confidence": 0.615
+  },
+  {
+    "timestamp": "2026-01-22 17:43:45",
+    "class": "person",
+    "confidence": 0.5889
+  },
+  {
+    "timestamp": "2026-01-22 17:43:46",
+    "class": "person",
+    "confidence": 0.9092
+  },
+  {
+    "timestamp": "2026-01-22 17:43:46",
+    "class": "laptop",
+    "confidence": 0.6655
+  },
+  {
+    "timestamp": "2026-01-22 17:43:46",
+    "class": "person",
+    "confidence": 0.9078
+  },
+  {
+    "timestamp": "2026-01-22 17:43:46",
+    "class": "laptop",
+    "confidence": 0.6308
+  },
+  {
+    "timestamp": "2026-01-22 17:43:46",
+    "class": "person",
+    "confidence": 0.9068
+  },
+  {
+    "timestamp": "2026-01-22 17:43:46",
+    "class": "laptop",
+    "confidence": 0.7542
+  },
+  {
+    "timestamp": "2026-01-22 17:43:46",
+    "class": "person",
+    "confidence": 0.9021
+  },
+  {
+    "timestamp": "2026-01-22 17:43:46",
+    "class": "laptop",
+    "confidence": 0.6384
+  },
+  {
+    "timestamp": "2026-01-22 17:43:46",
+    "class": "tv",
+    "confidence": 0.5725
+  },
+  {
+    "timestamp": "2026-01-22 17:43:46",
+    "class": "person",
+    "confidence": 0.535
+  },
+  {
+    "timestamp": "2026-01-22 17:43:46",
+    "class": "person",
+    "confidence": 0.8847
+  },
+  {
+    "timestamp": "2026-01-22 17:43:46",
+    "class": "laptop",
+    "confidence": 0.6747
+  },
+  {
+    "timestamp": "2026-01-22 17:43:46",
+    "class": "person",
+    "confidence": 0.8935
+  },
+  {
+    "timestamp": "2026-01-22 17:43:46",
+    "class": "laptop",
+    "confidence": 0.7599
+  },
+  {
+    "timestamp": "2026-01-22 17:43:46",
+    "class": "person",
+    "confidence": 0.5097
+  },
+  {
+    "timestamp": "2026-01-22 17:43:46",
+    "class": "person",
+    "confidence": 0.9008
+  },
+  {
+    "timestamp": "2026-01-22 17:43:46",
+    "class": "laptop",
+    "confidence": 0.6662
+  },
+  {
+    "timestamp": "2026-01-22 17:43:46",
+    "class": "person",
+    "confidence": 0.6362
+  },
+  {
+    "timestamp": "2026-01-22 17:43:46",
+    "class": "tv",
+    "confidence": 0.5084
+  },
+  {
+    "timestamp": "2026-01-22 17:43:46",
+    "class": "person",
+    "confidence": 0.9005
+  },
+  {
+    "timestamp": "2026-01-22 17:43:46",
+    "class": "laptop",
+    "confidence": 0.6529
+  },
+  {
+    "timestamp": "2026-01-22 17:43:46",
+    "class": "person",
+    "confidence": 0.5464
+  },
+  {
+    "timestamp": "2026-01-22 17:43:47",
+    "class": "person",
+    "confidence": 0.8963
+  },
+  {
+    "timestamp": "2026-01-22 17:43:47",
+    "class": "laptop",
+    "confidence": 0.6442
+  },
+  {
+    "timestamp": "2026-01-22 17:43:47",
+    "class": "person",
+    "confidence": 0.5712
+  },
+  {
+    "timestamp": "2026-01-22 17:43:47",
+    "class": "tv",
+    "confidence": 0.5131
+  },
+  {
+    "timestamp": "2026-01-22 17:43:47",
+    "class": "person",
+    "confidence": 0.9095
+  },
+  {
+    "timestamp": "2026-01-22 17:43:47",
+    "class": "laptop",
+    "confidence": 0.7033
+  },
+  {
+    "timestamp": "2026-01-22 17:43:47",
+    "class": "person",
+    "confidence": 0.6081
+  },
+  {
+    "timestamp": "2026-01-22 17:43:47",
+    "class": "person",
+    "confidence": 0.9098
+  },
+  {
+    "timestamp": "2026-01-22 17:43:47",
+    "class": "laptop",
+    "confidence": 0.6532
+  },
+  {
+    "timestamp": "2026-01-22 17:43:47",
+    "class": "person",
+    "confidence": 0.5436
+  },
+  {
+    "timestamp": "2026-01-22 17:43:47",
+    "class": "person",
+    "confidence": 0.8854
+  },
+  {
+    "timestamp": "2026-01-22 17:43:47",
+    "class": "laptop",
+    "confidence": 0.6261
+  },
+  {
+    "timestamp": "2026-01-22 17:43:47",
+    "class": "person",
+    "confidence": 0.5259
+  },
+  {
+    "timestamp": "2026-01-22 17:43:47",
+    "class": "person",
+    "confidence": 0.9116
+  },
+  {
+    "timestamp": "2026-01-22 17:43:47",
+    "class": "laptop",
+    "confidence": 0.6573
+  },
+  {
+    "timestamp": "2026-01-22 17:43:47",
+    "class": "person",
+    "confidence": 0.639
+  },
+  {
+    "timestamp": "2026-01-22 17:43:47",
+    "class": "person",
+    "confidence": 0.9092
+  },
+  {
+    "timestamp": "2026-01-22 17:43:47",
+    "class": "laptop",
+    "confidence": 0.6895
+  },
+  {
+    "timestamp": "2026-01-22 17:43:47",
+    "class": "person",
+    "confidence": 0.6218
+  },
+  {
+    "timestamp": "2026-01-22 17:43:47",
+    "class": "person",
+    "confidence": 0.9133
+  },
+  {
+    "timestamp": "2026-01-22 17:43:47",
+    "class": "person",
+    "confidence": 0.7345
+  },
+  {
+    "timestamp": "2026-01-22 17:43:47",
+    "class": "laptop",
+    "confidence": 0.6203
+  },
+  {
+    "timestamp": "2026-01-22 17:43:48",
+    "class": "person",
+    "confidence": 0.9036
+  },
+  {
+    "timestamp": "2026-01-22 17:43:48",
+    "class": "laptop",
+    "confidence": 0.6713
+  },
+  {
+    "timestamp": "2026-01-22 17:43:48",
+    "class": "person",
+    "confidence": 0.5036
+  },
+  {
+    "timestamp": "2026-01-22 17:43:48",
+    "class": "person",
+    "confidence": 0.8765
+  },
+  {
+    "timestamp": "2026-01-22 17:43:48",
+    "class": "laptop",
+    "confidence": 0.6383
+  },
+  {
+    "timestamp": "2026-01-22 17:43:48",
+    "class": "person",
+    "confidence": 0.9021
+  },
+  {
+    "timestamp": "2026-01-22 17:43:48",
+    "class": "laptop",
+    "confidence": 0.6652
+  },
+  {
+    "timestamp": "2026-01-22 17:43:48",
+    "class": "person",
+    "confidence": 0.6221
+  },
+  {
+    "timestamp": "2026-01-22 17:43:48",
+    "class": "person",
+    "confidence": 0.9012
+  },
+  {
+    "timestamp": "2026-01-22 17:43:48",
+    "class": "laptop",
+    "confidence": 0.6667
+  },
+  {
+    "timestamp": "2026-01-22 17:43:48",
+    "class": "person",
+    "confidence": 0.891
+  },
+  {
+    "timestamp": "2026-01-22 17:43:48",
+    "class": "laptop",
+    "confidence": 0.6364
+  },
+  {
+    "timestamp": "2026-01-22 17:43:48",
+    "class": "person",
+    "confidence": 0.5483
+  },
+  {
+    "timestamp": "2026-01-22 17:43:48",
+    "class": "person",
+    "confidence": 0.8944
+  },
+  {
+    "timestamp": "2026-01-22 17:43:48",
+    "class": "laptop",
+    "confidence": 0.6583
+  },
+  {
+    "timestamp": "2026-01-22 17:43:48",
+    "class": "cell phone",
+    "confidence": 0.5439
+  },
+  {
+    "timestamp": "2026-01-22 17:43:48",
+    "class": "person",
+    "confidence": 0.5192
+  },
+  {
+    "timestamp": "2026-01-22 17:43:48",
+    "class": "person",
+    "confidence": 0.8997
+  },
+  {
+    "timestamp": "2026-01-22 17:43:48",
+    "class": "laptop",
+    "confidence": 0.7341
+  },
+  {
+    "timestamp": "2026-01-22 17:43:48",
+    "class": "person",
+    "confidence": 0.6126
+  },
+  {
+    "timestamp": "2026-01-22 17:43:49",
+    "class": "person",
+    "confidence": 0.8932
+  },
+  {
+    "timestamp": "2026-01-22 17:43:49",
+    "class": "laptop",
+    "confidence": 0.7181
+  },
+  {
+    "timestamp": "2026-01-22 17:43:49",
+    "class": "person",
+    "confidence": 0.5467
+  },
+  {
+    "timestamp": "2026-01-22 17:43:49",
+    "class": "person",
+    "confidence": 0.9169
+  },
+  {
+    "timestamp": "2026-01-22 17:43:49",
+    "class": "laptop",
+    "confidence": 0.7405
+  },
+  {
+    "timestamp": "2026-01-22 17:43:49",
+    "class": "person",
+    "confidence": 0.5829
+  },
+  {
+    "timestamp": "2026-01-22 17:43:49",
+    "class": "chair",
+    "confidence": 0.5011
+  },
+  {
+    "timestamp": "2026-01-22 17:43:49",
+    "class": "person",
+    "confidence": 0.9173
+  },
+  {
+    "timestamp": "2026-01-22 17:43:49",
+    "class": "laptop",
+    "confidence": 0.6424
+  },
+  {
+    "timestamp": "2026-01-22 17:43:49",
+    "class": "person",
+    "confidence": 0.9155
+  },
+  {
+    "timestamp": "2026-01-22 17:43:49",
+    "class": "laptop",
+    "confidence": 0.7148
+  },
+  {
+    "timestamp": "2026-01-22 17:43:49",
+    "class": "person",
+    "confidence": 0.5199
+  },
+  {
+    "timestamp": "2026-01-22 17:43:49",
+    "class": "person",
+    "confidence": 0.9208
+  },
+  {
+    "timestamp": "2026-01-22 17:43:49",
+    "class": "laptop",
+    "confidence": 0.6428
+  },
+  {
+    "timestamp": "2026-01-22 17:43:49",
+    "class": "person",
+    "confidence": 0.9097
+  },
+  {
+    "timestamp": "2026-01-22 17:43:49",
+    "class": "laptop",
+    "confidence": 0.652
+  },
+  {
+    "timestamp": "2026-01-22 17:43:49",
+    "class": "person",
+    "confidence": 0.9079
+  },
+  {
+    "timestamp": "2026-01-22 17:43:49",
+    "class": "laptop",
+    "confidence": 0.6447
+  },
+  {
+    "timestamp": "2026-01-22 17:43:49",
+    "class": "person",
+    "confidence": 0.9056
+  },
+  {
+    "timestamp": "2026-01-22 17:43:49",
+    "class": "laptop",
+    "confidence": 0.6678
+  },
+  {
+    "timestamp": "2026-01-22 17:43:49",
+    "class": "person",
+    "confidence": 0.5835
+  },
+  {
+    "timestamp": "2026-01-22 17:43:50",
+    "class": "person",
+    "confidence": 0.8968
+  },
+  {
+    "timestamp": "2026-01-22 17:43:50",
+    "class": "laptop",
+    "confidence": 0.6142
+  },
+  {
+    "timestamp": "2026-01-22 17:43:50",
+    "class": "person",
+    "confidence": 0.5067
+  },
+  {
+    "timestamp": "2026-01-22 17:43:50",
+    "class": "person",
+    "confidence": 0.9228
+  },
+  {
+    "timestamp": "2026-01-22 17:43:50",
+    "class": "laptop",
+    "confidence": 0.5744
+  },
+  {
+    "timestamp": "2026-01-22 17:43:50",
+    "class": "chair",
+    "confidence": 0.5413
+  },
+  {
+    "timestamp": "2026-01-22 17:43:50",
+    "class": "person",
+    "confidence": 0.9166
+  },
+  {
+    "timestamp": "2026-01-22 17:43:50",
+    "class": "laptop",
+    "confidence": 0.6613
+  },
+  {
+    "timestamp": "2026-01-22 17:43:50",
+    "class": "person",
+    "confidence": 0.9157
+  },
+  {
+    "timestamp": "2026-01-22 17:43:50",
+    "class": "laptop",
+    "confidence": 0.5398
+  },
+  {
+    "timestamp": "2026-01-22 17:43:50",
+    "class": "person",
+    "confidence": 0.9095
+  },
+  {
+    "timestamp": "2026-01-22 17:43:50",
+    "class": "laptop",
+    "confidence": 0.6661
+  },
+  {
+    "timestamp": "2026-01-22 17:43:50",
+    "class": "person",
+    "confidence": 0.5071
+  },
+  {
+    "timestamp": "2026-01-22 17:43:50",
+    "class": "person",
+    "confidence": 0.8871
+  },
+  {
+    "timestamp": "2026-01-22 17:43:50",
+    "class": "laptop",
+    "confidence": 0.6718
+  },
+  {
+    "timestamp": "2026-01-22 17:43:50",
+    "class": "chair",
+    "confidence": 0.5218
+  },
+  {
+    "timestamp": "2026-01-22 17:43:50",
+    "class": "person",
+    "confidence": 0.5077
+  },
+  {
+    "timestamp": "2026-01-22 17:43:50",
+    "class": "person",
+    "confidence": 0.8939
+  },
+  {
+    "timestamp": "2026-01-22 17:43:50",
+    "class": "person",
+    "confidence": 0.5905
+  },
+  {
+    "timestamp": "2026-01-22 17:43:50",
+    "class": "laptop",
+    "confidence": 0.5861
+  },
+  {
+    "timestamp": "2026-01-22 17:47:53",
+    "class": "person",
+    "confidence": 0.91,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:53",
+    "class": "person",
+    "confidence": 0.8619,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:53",
+    "class": "person",
+    "confidence": 0.8297,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:53",
+    "class": "person",
+    "confidence": 0.9075,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:53",
+    "class": "person",
+    "confidence": 0.8503,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:53",
+    "class": "person",
+    "confidence": 0.8384,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:53",
+    "class": "person",
+    "confidence": 0.9038,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:53",
+    "class": "person",
+    "confidence": 0.843,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:53",
+    "class": "person",
+    "confidence": 0.8428,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:53",
+    "class": "person",
+    "confidence": 0.8966,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:54",
+    "class": "person",
+    "confidence": 0.8558,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:54",
+    "class": "person",
+    "confidence": 0.8367,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:55",
+    "class": "person",
+    "confidence": 0.7952,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:55",
+    "class": "person",
+    "confidence": 0.6929,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:55",
+    "class": "person",
+    "confidence": 0.8458,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:55",
+    "class": "person",
+    "confidence": 0.5127,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:55",
+    "class": "person",
+    "confidence": 0.8409,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:55",
+    "class": "person",
+    "confidence": 0.7933,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:55",
+    "class": "person",
+    "confidence": 0.8519,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:56",
+    "class": "person",
+    "confidence": 0.8206,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:56",
+    "class": "person",
+    "confidence": 0.6875,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:56",
+    "class": "person",
+    "confidence": 0.7944,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:56",
+    "class": "person",
+    "confidence": 0.8453,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:56",
+    "class": "person",
+    "confidence": 0.5388,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:56",
+    "class": "person",
+    "confidence": 0.8266,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:56",
+    "class": "person",
+    "confidence": 0.8462,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:56",
+    "class": "person",
+    "confidence": 0.7662,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:56",
+    "class": "person",
+    "confidence": 0.8047,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:56",
+    "class": "person",
+    "confidence": 0.6946,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:56",
+    "class": "person",
+    "confidence": 0.8115,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:56",
+    "class": "person",
+    "confidence": 0.775,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:56",
+    "class": "person",
+    "confidence": 0.8277,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:56",
+    "class": "person",
+    "confidence": 0.6776,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:56",
+    "class": "person",
+    "confidence": 0.8433,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:56",
+    "class": "person",
+    "confidence": 0.7964,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:56",
+    "class": "person",
+    "confidence": 0.6795,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:56",
+    "class": "person",
+    "confidence": 0.8311,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:56",
+    "class": "person",
+    "confidence": 0.7832,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:56",
+    "class": "person",
+    "confidence": 0.7434,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:57",
+    "class": "person",
+    "confidence": 0.8305,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:57",
+    "class": "person",
+    "confidence": 0.7958,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:57",
+    "class": "person",
+    "confidence": 0.6565,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:57",
+    "class": "person",
+    "confidence": 0.8512,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:57",
+    "class": "person",
+    "confidence": 0.7819,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:57",
+    "class": "person",
+    "confidence": 0.6426,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:57",
+    "class": "person",
+    "confidence": 0.8842,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:57",
+    "class": "person",
+    "confidence": 0.8478,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:57",
+    "class": "person",
+    "confidence": 0.7034,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:57",
+    "class": "person",
+    "confidence": 0.8167,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:57",
+    "class": "person",
+    "confidence": 0.7183,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:57",
+    "class": "person",
+    "confidence": 0.5501,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:57",
+    "class": "person",
+    "confidence": 0.8614,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:57",
+    "class": "person",
+    "confidence": 0.8123,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:57",
+    "class": "person",
+    "confidence": 0.6404,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:57",
+    "class": "person",
+    "confidence": 0.8618,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:57",
+    "class": "person",
+    "confidence": 0.8553,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:57",
+    "class": "person",
+    "confidence": 0.7208,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:57",
+    "class": "person",
+    "confidence": 0.7172,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:57",
+    "class": "person",
+    "confidence": 0.6967,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:57",
+    "class": "person",
+    "confidence": 0.6843,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:57",
+    "class": "person",
+    "confidence": 0.8333,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:57",
+    "class": "person",
+    "confidence": 0.8161,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:57",
+    "class": "person",
+    "confidence": 0.5687,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:57",
+    "class": "person",
+    "confidence": 0.8588,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:57",
+    "class": "person",
+    "confidence": 0.8082,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:57",
+    "class": "person",
+    "confidence": 0.7245,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:57",
+    "class": "person",
+    "confidence": 0.5061,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:57",
+    "class": "person",
+    "confidence": 0.7305,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:57",
+    "class": "person",
+    "confidence": 0.6055,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:58",
+    "class": "person",
+    "confidence": 0.8231,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:58",
+    "class": "person",
+    "confidence": 0.7959,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:58",
+    "class": "person",
+    "confidence": 0.5126,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:58",
+    "class": "person",
+    "confidence": 0.8249,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:58",
+    "class": "person",
+    "confidence": 0.7981,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:58",
+    "class": "person",
+    "confidence": 0.6929,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:58",
+    "class": "person",
+    "confidence": 0.8182,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:58",
+    "class": "person",
+    "confidence": 0.7355,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:58",
+    "class": "person",
+    "confidence": 0.5596,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:58",
+    "class": "person",
+    "confidence": 0.7891,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:58",
+    "class": "person",
+    "confidence": 0.7687,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:58",
+    "class": "person",
+    "confidence": 0.6072,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:58",
+    "class": "person",
+    "confidence": 0.7547,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:58",
+    "class": "person",
+    "confidence": 0.5754,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:58",
+    "class": "person",
+    "confidence": 0.8564,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:58",
+    "class": "person",
+    "confidence": 0.8165,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:58",
+    "class": "person",
+    "confidence": 0.8275,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:58",
+    "class": "person",
+    "confidence": 0.7452,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:58",
+    "class": "person",
+    "confidence": 0.711,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:58",
+    "class": "person",
+    "confidence": 0.8413,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:58",
+    "class": "person",
+    "confidence": 0.6989,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:58",
+    "class": "person",
+    "confidence": 0.5316,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:58",
+    "class": "person",
+    "confidence": 0.8206,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:58",
+    "class": "person",
+    "confidence": 0.8047,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:58",
+    "class": "person",
+    "confidence": 0.6474,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:58",
+    "class": "person",
+    "confidence": 0.8198,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:58",
+    "class": "person",
+    "confidence": 0.7998,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:58",
+    "class": "person",
+    "confidence": 0.8103,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:58",
+    "class": "person",
+    "confidence": 0.7705,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:58",
+    "class": "person",
+    "confidence": 0.6899,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:58",
+    "class": "person",
+    "confidence": 0.8557,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:59",
+    "class": "person",
+    "confidence": 0.8244,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:59",
+    "class": "person",
+    "confidence": 0.8228,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:59",
+    "class": "person",
+    "confidence": 0.8053,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:59",
+    "class": "person",
+    "confidence": 0.7252,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:59",
+    "class": "person",
+    "confidence": 0.711,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:59",
+    "class": "person",
+    "confidence": 0.7651,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:59",
+    "class": "person",
+    "confidence": 0.6078,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:59",
+    "class": "person",
+    "confidence": 0.5258,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:59",
+    "class": "person",
+    "confidence": 0.7991,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:59",
+    "class": "person",
+    "confidence": 0.7821,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:59",
+    "class": "person",
+    "confidence": 0.6392,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:59",
+    "class": "person",
+    "confidence": 0.783,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:59",
+    "class": "person",
+    "confidence": 0.598,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:59",
+    "class": "person",
+    "confidence": 0.8421,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:59",
+    "class": "person",
+    "confidence": 0.7016,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:59",
+    "class": "person",
+    "confidence": 0.6486,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:59",
+    "class": "person",
+    "confidence": 0.7488,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:59",
+    "class": "person",
+    "confidence": 0.707,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:59",
+    "class": "person",
+    "confidence": 0.5904,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:59",
+    "class": "person",
+    "confidence": 0.8232,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:59",
+    "class": "person",
+    "confidence": 0.8157,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:59",
+    "class": "person",
+    "confidence": 0.522,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:59",
+    "class": "person",
+    "confidence": 0.8244,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:59",
+    "class": "person",
+    "confidence": 0.7883,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:47:59",
+    "class": "person",
+    "confidence": 0.6506,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:00",
+    "class": "person",
+    "confidence": 0.8522,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:00",
+    "class": "person",
+    "confidence": 0.7519,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:00",
+    "class": "person",
+    "confidence": 0.6554,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:00",
+    "class": "person",
+    "confidence": 0.8519,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:00",
+    "class": "person",
+    "confidence": 0.8272,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:00",
+    "class": "person",
+    "confidence": 0.5966,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:00",
+    "class": "person",
+    "confidence": 0.85,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:00",
+    "class": "person",
+    "confidence": 0.7906,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:00",
+    "class": "person",
+    "confidence": 0.728,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:00",
+    "class": "person",
+    "confidence": 0.8386,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:00",
+    "class": "person",
+    "confidence": 0.695,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:00",
+    "class": "person",
+    "confidence": 0.8634,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:00",
+    "class": "person",
+    "confidence": 0.7192,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:00",
+    "class": "person",
+    "confidence": 0.8109,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:00",
+    "class": "person",
+    "confidence": 0.6617,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:00",
+    "class": "person",
+    "confidence": 0.7996,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:00",
+    "class": "person",
+    "confidence": 0.795,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:00",
+    "class": "person",
+    "confidence": 0.8543,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:00",
+    "class": "person",
+    "confidence": 0.7677,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:00",
+    "class": "person",
+    "confidence": 0.8178,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:00",
+    "class": "person",
+    "confidence": 0.7284,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:00",
+    "class": "person",
+    "confidence": 0.8289,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:01",
+    "class": "person",
+    "confidence": 0.7473,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:01",
+    "class": "person",
+    "confidence": 0.8297,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:01",
+    "class": "person",
+    "confidence": 0.7758,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:01",
+    "class": "person",
+    "confidence": 0.8373,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:01",
+    "class": "person",
+    "confidence": 0.7832,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:01",
+    "class": "person",
+    "confidence": 0.8477,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:01",
+    "class": "person",
+    "confidence": 0.6832,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:01",
+    "class": "person",
+    "confidence": 0.8501,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:01",
+    "class": "person",
+    "confidence": 0.6403,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:01",
+    "class": "person",
+    "confidence": 0.8376,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:01",
+    "class": "person",
+    "confidence": 0.8681,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:01",
+    "class": "person",
+    "confidence": 0.6713,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:01",
+    "class": "person",
+    "confidence": 0.8355,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:01",
+    "class": "person",
+    "confidence": 0.6347,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:01",
+    "class": "person",
+    "confidence": 0.8415,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:01",
+    "class": "person",
+    "confidence": 0.6024,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:02",
+    "class": "person",
+    "confidence": 0.8373,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:02",
+    "class": "person",
+    "confidence": 0.5218,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:02",
+    "class": "person",
+    "confidence": 0.8377,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:02",
+    "class": "person",
+    "confidence": 0.8379,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:02",
+    "class": "person",
+    "confidence": 0.6404,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:02",
+    "class": "person",
+    "confidence": 0.8195,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:02",
+    "class": "person",
+    "confidence": 0.7596,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:02",
+    "class": "person",
+    "confidence": 0.8556,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:02",
+    "class": "person",
+    "confidence": 0.8365,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:02",
+    "class": "person",
+    "confidence": 0.8459,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:02",
+    "class": "person",
+    "confidence": 0.7919,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:02",
+    "class": "person",
+    "confidence": 0.8529,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:02",
+    "class": "person",
+    "confidence": 0.8375,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:02",
+    "class": "person",
+    "confidence": 0.8586,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:02",
+    "class": "person",
+    "confidence": 0.8303,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:02",
+    "class": "person",
+    "confidence": 0.8682,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:02",
+    "class": "person",
+    "confidence": 0.8416,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:02",
+    "class": "person",
+    "confidence": 0.8735,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:02",
+    "class": "person",
+    "confidence": 0.8171,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:03",
+    "class": "person",
+    "confidence": 0.8919,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:03",
+    "class": "person",
+    "confidence": 0.8497,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:03",
+    "class": "person",
+    "confidence": 0.8937,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:03",
+    "class": "person",
+    "confidence": 0.8229,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:03",
+    "class": "person",
+    "confidence": 0.893,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:03",
+    "class": "person",
+    "confidence": 0.8464,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:03",
+    "class": "person",
+    "confidence": 0.884,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:03",
+    "class": "person",
+    "confidence": 0.8738,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:03",
+    "class": "person",
+    "confidence": 0.884,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:03",
+    "class": "person",
+    "confidence": 0.8827,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:03",
+    "class": "person",
+    "confidence": 0.8806,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:03",
+    "class": "person",
+    "confidence": 0.8678,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:03",
+    "class": "person",
+    "confidence": 0.855,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:03",
+    "class": "person",
+    "confidence": 0.8535,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:03",
+    "class": "person",
+    "confidence": 0.8801,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:03",
+    "class": "person",
+    "confidence": 0.8235,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:03",
+    "class": "suitcase",
+    "confidence": 0.5288,
+    "camera_idx": 0
+  },
+  {
+    "timestamp": "2026-01-22 17:48:12",
+    "class": "person",
+    "confidence": 0.6831,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:12",
+    "class": "laptop",
+    "confidence": 0.5539,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:12",
+    "class": "person",
+    "confidence": 0.7648,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:12",
+    "class": "person",
+    "confidence": 0.7459,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:12",
+    "class": "person",
+    "confidence": 0.7097,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:12",
+    "class": "person",
+    "confidence": 0.7666,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:12",
+    "class": "person",
+    "confidence": 0.7161,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:12",
+    "class": "person",
+    "confidence": 0.7326,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:12",
+    "class": "person",
+    "confidence": 0.8215,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:12",
+    "class": "cell phone",
+    "confidence": 0.5077,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:12",
+    "class": "person",
+    "confidence": 0.822,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:12",
+    "class": "keyboard",
+    "confidence": 0.7505,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:12",
+    "class": "person",
+    "confidence": 0.7301,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:13",
+    "class": "keyboard",
+    "confidence": 0.7733,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:13",
+    "class": "person",
+    "confidence": 0.7337,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:13",
+    "class": "keyboard",
+    "confidence": 0.8438,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:13",
+    "class": "person",
+    "confidence": 0.8018,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:13",
+    "class": "person",
+    "confidence": 0.524,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:13",
+    "class": "mouse",
+    "confidence": 0.8975,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:13",
+    "class": "bottle",
+    "confidence": 0.8691,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:13",
+    "class": "keyboard",
+    "confidence": 0.6973,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:13",
+    "class": "keyboard",
+    "confidence": 0.5189,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:13",
+    "class": "keyboard",
+    "confidence": 0.8788,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:13",
+    "class": "bottle",
+    "confidence": 0.8439,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:13",
+    "class": "keyboard",
+    "confidence": 0.5731,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:13",
+    "class": "mouse",
+    "confidence": 0.5571,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:13",
+    "class": "mouse",
+    "confidence": 0.8793,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:13",
+    "class": "bottle",
+    "confidence": 0.856,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:13",
+    "class": "keyboard",
+    "confidence": 0.7612,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:13",
+    "class": "laptop",
+    "confidence": 0.7348,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:13",
+    "class": "person",
+    "confidence": 0.6004,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:14",
+    "class": "keyboard",
+    "confidence": 0.8985,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:14",
+    "class": "bottle",
+    "confidence": 0.8525,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:14",
+    "class": "laptop",
+    "confidence": 0.794,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:14",
+    "class": "mouse",
+    "confidence": 0.7206,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:14",
+    "class": "person",
+    "confidence": 0.7189,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:14",
+    "class": "bottle",
+    "confidence": 0.9136,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:14",
+    "class": "keyboard",
+    "confidence": 0.9008,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:14",
+    "class": "mouse",
+    "confidence": 0.7581,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:14",
+    "class": "person",
+    "confidence": 0.6999,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:14",
+    "class": "laptop",
+    "confidence": 0.6065,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:14",
+    "class": "mouse",
+    "confidence": 0.8587,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:14",
+    "class": "bottle",
+    "confidence": 0.8514,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:14",
+    "class": "keyboard",
+    "confidence": 0.7821,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:14",
+    "class": "tv",
+    "confidence": 0.7159,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:14",
+    "class": "person",
+    "confidence": 0.6922,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:14",
+    "class": "mouse",
+    "confidence": 0.8819,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:14",
+    "class": "bottle",
+    "confidence": 0.8792,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:14",
+    "class": "keyboard",
+    "confidence": 0.875,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:14",
+    "class": "person",
+    "confidence": 0.7187,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:14",
+    "class": "laptop",
+    "confidence": 0.679,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:14",
+    "class": "mouse",
+    "confidence": 0.9114,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:14",
+    "class": "bottle",
+    "confidence": 0.865,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:14",
+    "class": "keyboard",
+    "confidence": 0.8255,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:14",
+    "class": "laptop",
+    "confidence": 0.5532,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:14",
+    "class": "person",
+    "confidence": 0.5078,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:14",
+    "class": "bottle",
+    "confidence": 0.8576,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:14",
+    "class": "keyboard",
+    "confidence": 0.8442,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:15",
+    "class": "mouse",
+    "confidence": 0.7314,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:15",
+    "class": "person",
+    "confidence": 0.6178,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:15",
+    "class": "laptop",
+    "confidence": 0.5906,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:15",
+    "class": "keyboard",
+    "confidence": 0.5254,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:15",
+    "class": "keyboard",
+    "confidence": 0.9151,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:15",
+    "class": "bottle",
+    "confidence": 0.8781,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:15",
+    "class": "mouse",
+    "confidence": 0.8277,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:15",
+    "class": "laptop",
+    "confidence": 0.7776,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:15",
+    "class": "person",
+    "confidence": 0.5867,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:15",
+    "class": "mouse",
+    "confidence": 0.5048,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:15",
+    "class": "keyboard",
+    "confidence": 0.504,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:16",
+    "class": "cup",
+    "confidence": 0.5775,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:16",
+    "class": "person",
+    "confidence": 0.732,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:16",
+    "class": "person",
+    "confidence": 0.7273,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:16",
+    "class": "person",
+    "confidence": 0.5921,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:16",
+    "class": "remote",
+    "confidence": 0.523,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:18",
+    "class": "cell phone",
+    "confidence": 0.6737,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:18",
+    "class": "cell phone",
+    "confidence": 0.6079,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:19",
+    "class": "toilet",
+    "confidence": 0.6682,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:20",
+    "class": "toilet",
+    "confidence": 0.5062,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:20",
+    "class": "toilet",
+    "confidence": 0.6975,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:20",
+    "class": "toilet",
+    "confidence": 0.5368,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:20",
+    "class": "remote",
+    "confidence": 0.6189,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:21",
+    "class": "keyboard",
+    "confidence": 0.892,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:21",
+    "class": "keyboard",
+    "confidence": 0.6283,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:21",
+    "class": "mouse",
+    "confidence": 0.5994,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:21",
+    "class": "keyboard",
+    "confidence": 0.8228,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:21",
+    "class": "mouse",
+    "confidence": 0.6344,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:21",
+    "class": "mouse",
+    "confidence": 0.8902,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:21",
+    "class": "keyboard",
+    "confidence": 0.7729,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:21",
+    "class": "keyboard",
+    "confidence": 0.8511,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:21",
+    "class": "mouse",
+    "confidence": 0.8029,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:22",
+    "class": "keyboard",
+    "confidence": 0.9417,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:22",
+    "class": "mouse",
+    "confidence": 0.7624,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:22",
+    "class": "keyboard",
+    "confidence": 0.9284,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:22",
+    "class": "mouse",
+    "confidence": 0.7331,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:22",
+    "class": "mouse",
+    "confidence": 0.8364,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:22",
+    "class": "keyboard",
+    "confidence": 0.5258,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:22",
+    "class": "mouse",
+    "confidence": 0.781,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:22",
+    "class": "keyboard",
+    "confidence": 0.6142,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:22",
+    "class": "mouse",
+    "confidence": 0.7771,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:22",
+    "class": "keyboard",
+    "confidence": 0.9019,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:22",
+    "class": "mouse",
+    "confidence": 0.6442,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:22",
+    "class": "keyboard",
+    "confidence": 0.9443,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:22",
+    "class": "bottle",
+    "confidence": 0.5559,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:22",
+    "class": "bottle",
+    "confidence": 0.5065,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:22",
+    "class": "keyboard",
+    "confidence": 0.7423,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:22",
+    "class": "bottle",
+    "confidence": 0.5175,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:22",
+    "class": "keyboard",
+    "confidence": 0.6219,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:22",
+    "class": "bottle",
+    "confidence": 0.6001,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:23",
+    "class": "keyboard",
+    "confidence": 0.7559,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:23",
+    "class": "bottle",
+    "confidence": 0.5543,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:23",
+    "class": "keyboard",
+    "confidence": 0.8444,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:23",
+    "class": "bottle",
+    "confidence": 0.7295,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:23",
+    "class": "keyboard",
+    "confidence": 0.9265,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:23",
+    "class": "bottle",
+    "confidence": 0.8117,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:23",
+    "class": "keyboard",
+    "confidence": 0.9209,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:23",
+    "class": "bottle",
+    "confidence": 0.8535,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:23",
+    "class": "keyboard",
+    "confidence": 0.9181,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:23",
+    "class": "bottle",
+    "confidence": 0.8027,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:23",
+    "class": "keyboard",
+    "confidence": 0.9184,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:23",
+    "class": "bottle",
+    "confidence": 0.8629,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:23",
+    "class": "keyboard",
+    "confidence": 0.8019,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:23",
+    "class": "bottle",
+    "confidence": 0.7758,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:23",
+    "class": "bottle",
+    "confidence": 0.8523,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:23",
+    "class": "keyboard",
+    "confidence": 0.8189,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:23",
+    "class": "keyboard",
+    "confidence": 0.8084,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:23",
+    "class": "bottle",
+    "confidence": 0.7453,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:24",
+    "class": "keyboard",
+    "confidence": 0.5852,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:24",
+    "class": "keyboard",
+    "confidence": 0.5085,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:24",
+    "class": "bottle",
+    "confidence": 0.86,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:24",
+    "class": "keyboard",
+    "confidence": 0.7716,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:24",
+    "class": "keyboard",
+    "confidence": 0.7255,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:24",
+    "class": "laptop",
+    "confidence": 0.5877,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:24",
+    "class": "bottle",
+    "confidence": 0.8474,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:24",
+    "class": "laptop",
+    "confidence": 0.6275,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:24",
+    "class": "bottle",
+    "confidence": 0.8781,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:24",
+    "class": "keyboard",
+    "confidence": 0.8609,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:24",
+    "class": "laptop",
+    "confidence": 0.65,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:24",
+    "class": "keyboard",
+    "confidence": 0.6398,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:24",
+    "class": "keyboard",
+    "confidence": 0.5242,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:24",
+    "class": "bottle",
+    "confidence": 0.8965,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:24",
+    "class": "keyboard",
+    "confidence": 0.8134,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:24",
+    "class": "laptop",
+    "confidence": 0.5773,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:24",
+    "class": "keyboard",
+    "confidence": 0.5382,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:24",
+    "class": "bottle",
+    "confidence": 0.8612,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:24",
+    "class": "keyboard",
+    "confidence": 0.8217,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:24",
+    "class": "keyboard",
+    "confidence": 0.7224,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:25",
+    "class": "bottle",
+    "confidence": 0.8628,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:25",
+    "class": "keyboard",
+    "confidence": 0.7161,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:25",
+    "class": "keyboard",
+    "confidence": 0.5969,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:25",
+    "class": "laptop",
+    "confidence": 0.5706,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:25",
+    "class": "keyboard",
+    "confidence": 0.8677,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:25",
+    "class": "bottle",
+    "confidence": 0.8614,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:25",
+    "class": "keyboard",
+    "confidence": 0.6972,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:25",
+    "class": "laptop",
+    "confidence": 0.5931,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:25",
+    "class": "laptop",
+    "confidence": 0.577,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:25",
+    "class": "keyboard",
+    "confidence": 0.902,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:25",
+    "class": "bottle",
+    "confidence": 0.8838,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:25",
+    "class": "keyboard",
+    "confidence": 0.7782,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:25",
+    "class": "laptop",
+    "confidence": 0.6976,
+    "camera_idx": 1
+  },
+  {
+    "timestamp": "2026-01-22 17:48:25",
+    "class": "laptop",
+    "confidence": 0.5973,
+    "camera_idx": 1
+  }
+]
